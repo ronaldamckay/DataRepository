@@ -1,0 +1,3794 @@
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:16:48.6790000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.60,127.73;114.27;1.20,1615839407374,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2236928,-79.6683888"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:16:48.6790000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:16:48.7260000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.48,117.45;114.35;1.20,1615839399895,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2236951,-79.6685156"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:16:48.7260000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:16:48.7260000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.64,129.07;115.41;1.20,1615839407510,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2237028,-79.6683722"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:16:48.7260000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:16:49.6790000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.61,127.63;114.00;1.20,1615839408383,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2236909,-79.6683903"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:16:49.6790000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:16:49.7100000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.38,129.84;115.68;1.20,1615839408299,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2237050,-79.6683627"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:16:49.7100000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:16:49.7100000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.59,129.22;115.51;1.20,1615839408385,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2237037,-79.6683704"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:16:49.7100000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:16:50.6790000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.62,127.60;113.65;1.20,1615839409059,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2236882,-79.6683910"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:16:50.6790000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:16:50.7100000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.38,129.82;115.65;1.20,1615839409307,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2237048,-79.6683630"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:16:50.7100000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:16:50.7100000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.57,129.30;115.62;1.20,1615839409623,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2237046,-79.6683694"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:16:50.7100000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:16:50.7100000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,stationary,0.88,126.45;116.16;1.20,1615839410664,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2237095,-79.6684027"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:16:50.7100000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:16:51.6790000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.63,127.60;113.69;1.20,1615839410103,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2236871,-79.6683907"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:16:51.6790000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:16:51.7100000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.40,129.71;115.57;1.20,1615839410379,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2237042,-79.6683644"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:16:51.7100000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:16:51.7100000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.57,129.29;115.60;1.20,1615839410239,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2237044,-79.6683695"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:16:51.7100000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:16:51.7100000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.64,126.59;116.12;1.20,1615839410669,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2237095,-79.6684027"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:16:51.7100000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:16:52.6790000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.69,127.48;113.96;1.20,1615839411549,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2236900,-79.6683921"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:16:52.6790000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:16:52.7100000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.44,129.64;115.58;1.20,1615839411410,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2237042,-79.6683652"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:16:52.7100000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:16:52.7100000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.46,117.47;114.08;1.20,1615839411432,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2236925,-79.6685153"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:16:52.7100000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:16:52.7100000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.64,126.59;116.12;1.20,1615839410673,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2237095,-79.6684027"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:16:52.7100000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:16:53.6790000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.62,127.45;114.26;1.20,1615839412557,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2236926,-79.6683924"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:16:53.6790000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:16:53.7100000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.46,129.67;115.61;1.20,1615839412541,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2237044,-79.6683648"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:16:53.7100000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:16:53.7100000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.49,117.33;114.14;1.20,1615839411985,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2236927,-79.6685145"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:16:53.7100000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:16:53.7100000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.56,127.42;115.92;1.20,1615839412407,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2237076,-79.6683924"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:16:53.7100000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:16:54.6790000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.57,127.52;114.42;1.20,1615839413262,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2236941,-79.6683915"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:16:54.6790000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:16:54.6950000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.45,129.80;115.53;1.20,1615839413480,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2237037,-79.6683632"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:16:54.6950000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:16:54.6950000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.48,130.23;114.76;1.20,1615839413252,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2236967,-79.6683580"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:16:54.6950000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:16:54.6950000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.57,127.44;115.94;1.20,1615839413622,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2237078,-79.6683923"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:16:54.6950000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:16:55.6790000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.54,127.93;114.72;1.20,1615839414267,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2236967,-79.6683864"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:16:55.6790000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:16:55.7100000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.43,130.12;115.35;1.20,1615839414279,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2237021,-79.6683593"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:16:55.7100000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:16:55.7100000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.46,131.26;114.79;1.20,1615839414310,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2236969,-79.6683454"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:16:55.7100000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:16:55.7100000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.61,127.70;116.63;1.20,1615839414410,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2237139,-79.6683888"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:16:55.7100000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:16:56.6790000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.53,128.48;115.13;1.20,1615839415222,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2236994,-79.6683812"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:16:56.6790000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:16:56.7100000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.46,130.71;115.32;1.20,1615839415280,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2237017,-79.6683520"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:16:56.7100000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:16:56.7100000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.41,131.39;114.70;1.20,1615839415345,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2236961,-79.6683449"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:16:56.7100000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:16:56.7100000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.57,128.31;118.54;1.20,1615839415348,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,d3330eb1-02f7-4984-a34b-9847f6949da8,L01S01,43.2237311,-79.6683810"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:16:56.7100000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:16:57.6790000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.53,129.11;115.54;1.20,1615839416580,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2237039,-79.6683717"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:16:57.6790000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:16:57.7100000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.42,131.83;115.42;1.20,1615839416191,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2237022,-79.6683418"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:16:57.7100000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:16:57.7100000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.37,132.13;114.65;1.20,1615839416291,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2236955,-79.6683347"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:16:57.7100000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:16:57.7100000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.39,128.92;119.89;1.20,1615839416305,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,d3330eb1-02f7-4984-a34b-9847f6949da8,L01S01,43.2237417,-79.6683749"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:16:57.7100000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:16:58.6790000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.51,129.92;115.93;1.20,1615839417473,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2237073,-79.6683617"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:16:58.6790000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:16:58.7100000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.37,133.12;115.55;1.20,1615839417200,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2237033,-79.6683256"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:16:58.7100000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:16:58.7100000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.34,133.32;114.65;1.20,1615839417353,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2236954,-79.6683201"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:16:58.7100000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:16:58.7100000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.36,129.29;120.64;1.20,1615839417425,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,d3330eb1-02f7-4984-a34b-9847f6949da8,L01S01,43.2237498,-79.6683685"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:16:58.7100000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:16:59.6790000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.45,131.09;116.36;1.20,1615839418561,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2237110,-79.6683472"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:16:59.6790000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:16:59.7110000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.38,134.29;115.50;1.20,1615839418527,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2237028,-79.6683080"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:16:59.7110000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:16:59.7110000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.31,134.75;114.55;1.20,1615839418567,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2236943,-79.6683024"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:16:59.7110000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:16:59.7110000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.34,129.74;121.46;1.20,1615839418445,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,d3330eb1-02f7-4984-a34b-9847f6949da8,L01S01,43.2237571,-79.6683629"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:16:59.7110000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:00.6790000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.43,132.08;116.20;1.20,1615839419314,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2237094,-79.6683351"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:00.6790000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:00.7110000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.37,135.44;115.52;1.20,1615839419110,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2237029,-79.6682938"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:00.7110000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:00.7110000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.34,135.84;114.59;1.20,1615839419361,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2236944,-79.6682891"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:00.7110000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:00.7110000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.31,130.30;121.89;1.20,1615839419483,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,d3330eb1-02f7-4984-a34b-9847f6949da8,L01S01,43.2237610,-79.6683558"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:00.7110000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:01.6790000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.40,132.93;116.04;1.20,1615839420260,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2237078,-79.6683246"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:01.6790000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:01.7110000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.36,136.59;115.30;1.20,1615839420203,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2237007,-79.6682797"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:01.7110000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:01.7110000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.33,136.60;114.47;1.20,1615839420281,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2236937,-79.6682815"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:01.7110000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:01.7110000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.33,130.94;122.38;1.20,1615839420495,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,d3330eb1-02f7-4984-a34b-9847f6949da8,L01S01,43.2237653,-79.6683478"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:01.7110000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:02.6790000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.35,133.76;115.92;1.20,1615839421427,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2237067,-79.6683144"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:02.6790000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:02.7110000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.34,137.67;114.84;1.20,1615839421398,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2236972,-79.6682684"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:02.7110000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:02.7110000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.35,137.29;114.20;1.20,1615839421404,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2236907,-79.6682712"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:02.7110000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:02.7110000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.31,131.67;122.81;1.20,1615839421351,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,d3330eb1-02f7-4984-a34b-9847f6949da8,L01S01,43.2237690,-79.6683388"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:02.7110000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:03.6790000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.38,134.60;115.72;1.20,1615839422361,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2237048,-79.6683042"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:03.6790000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:03.9610000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.33,138.18;114.43;1.20,1615839422164,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2236937,-79.6682617"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:03.9610000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:03.9610000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.41,137.91;113.80;1.20,1615839422496,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,22406e4b-00b9-4323-92d0-7556ee3071e4,Pedestrian L01L02,43.2236870,-79.6682638"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:03.9610000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:03.9610000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.33,132.27;123.30;1.20,1615839422288,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,d3330eb1-02f7-4984-a34b-9847f6949da8,L01S01,43.2237733,-79.6683313"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:03.9610000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:04.6790000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.35,135.72;115.58;1.20,1615839423253,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2237034,-79.6682931"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:04.6790000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:04.7110000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.34,138.71;113.91;1.20,1615839423530,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,22406e4b-00b9-4323-92d0-7556ee3071e4,Pedestrian L01L02,43.2236879,-79.6682538"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:04.7110000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:04.7110000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.39,138.80;113.58;1.20,1615839423210,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,22406e4b-00b9-4323-92d0-7556ee3071e4,Pedestrian L01L02,43.2236849,-79.6682528"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:04.7110000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:04.7110000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.39,132.99;123.61;1.20,1615839423358,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,d3330eb1-02f7-4984-a34b-9847f6949da8,L01S01,43.2237760,-79.6683224"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:04.7110000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:05.6800000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.34,136.80;115.74;1.20,1615839424470,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2237046,-79.6682771"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:05.6800000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:05.7110000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.32,139.34;113.63;1.20,1615839424351,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,22406e4b-00b9-4323-92d0-7556ee3071e4,Pedestrian L01L02,43.2236852,-79.6682462"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:05.7110000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:05.7110000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.36,139.64;113.38;1.20,1615839424299,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,22406e4b-00b9-4323-92d0-7556ee3071e4,Pedestrian L01L02,43.2236830,-79.6682425"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:05.7110000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:05.7110000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.36,133.56;123.67;1.20,1615839424428,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2237765,-79.6683164"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:05.7110000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:06.6800000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.33,137.83;116.00;1.20,1615839425438,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2237068,-79.6682643"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:06.6800000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:06.7110000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.32,139.83;113.59;1.20,1615839425305,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,22406e4b-00b9-4323-92d0-7556ee3071e4,Pedestrian L01L02,43.2236848,-79.6682401"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:06.7110000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:06.7110000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.38,140.53;113.24;1.20,1615839425427,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,22406e4b-00b9-4323-92d0-7556ee3071e4,Pedestrian L01L02,43.2236818,-79.6682343"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:06.7110000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:06.7110000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.35,133.94;123.70;1.20,1615839425425,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,99cd2a7e-ba30-472d-b4e7-c6bc8cdb0ae5,L01S02,43.2237767,-79.6683107"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:06.7110000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:07.6800000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.33,138.70;116.33;1.20,1615839426344,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2237097,-79.6682536"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:07.6800000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:07.6950000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.32,140.45;113.53;1.20,1615839426296,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,22406e4b-00b9-4323-92d0-7556ee3071e4,Pedestrian L01L02,43.2236843,-79.6682343"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:07.6950000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:07.6950000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.38,141.43;113.16;1.20,1615839426355,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,22406e4b-00b9-4323-92d0-7556ee3071e4,Pedestrian L01L02,43.2236807,-79.6682206"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:07.6950000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:07.6950000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.33,134.31;123.74;1.20,1615839426472,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,99cd2a7e-ba30-472d-b4e7-c6bc8cdb0ae5,L01S02,43.2237770,-79.6683061"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:07.6950000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:08.6800000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.38,139.54;116.57;1.20,1615839427266,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2237112,-79.6682457"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:08.6800000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:08.7110000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.31,141.11;113.50;1.20,1615839427196,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,22406e4b-00b9-4323-92d0-7556ee3071e4,Pedestrian L01L02,43.2236839,-79.6682259"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:08.7110000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:08.7110000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.34,142.17;113.24;1.20,1615839427345,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,22406e4b-00b9-4323-92d0-7556ee3071e4,Pedestrian L01L02,43.2236814,-79.6682114"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:08.7110000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:08.7110000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.30,134.68;123.68;1.20,1615839427463,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,99cd2a7e-ba30-472d-b4e7-c6bc8cdb0ae5,L01S02,43.2237764,-79.6683015"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:08.7110000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:09.6800000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.38,140.39;116.64;1.20,1615839428469,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2237122,-79.6682326"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:09.6800000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:09.7110000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.31,141.77;113.50;1.20,1615839428426,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,22406e4b-00b9-4323-92d0-7556ee3071e4,Pedestrian L01L02,43.2236838,-79.6682163"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:09.7110000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:09.7110000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.31,142.91;113.39;1.20,1615839428360,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,22406e4b-00b9-4323-92d0-7556ee3071e4,Pedestrian L01L02,43.2236826,-79.6682023"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:09.7110000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:09.7110000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.33,135.43;123.54;1.20,1615839428364,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,99cd2a7e-ba30-472d-b4e7-c6bc8cdb0ae5,L01S02,43.2237756,-79.6682949"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:09.7110000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:10.6800000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.35,141.16;116.57;1.20,1615839429246,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2237116,-79.6682253"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:10.6800000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:10.7110000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.33,142.80;113.52;1.20,1615839429200,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,22406e4b-00b9-4323-92d0-7556ee3071e4,Pedestrian L01L02,43.2236838,-79.6682035"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:10.7110000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:10.7110000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.30,143.75;113.50;1.20,1615839429376,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,22406e4b-00b9-4323-92d0-7556ee3071e4,Pedestrian L01L02,43.2236834,-79.6681939"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:10.7110000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:10.7110000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.47,136.79;123.07;1.20,1615839429193,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,99cd2a7e-ba30-472d-b4e7-c6bc8cdb0ae5,L01S02,43.2237706,-79.6682757"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:10.7110000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:11.6800000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.36,141.89;116.61;1.20,1615839430047,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2237115,-79.6682161"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:11.6800000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:11.6950000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.29,144.27;113.85;1.20,1615839430190,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,22406e4b-00b9-4323-92d0-7556ee3071e4,Pedestrian L01L02,43.2236866,-79.6681855"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:11.6950000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:11.6950000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.29,144.37;113.56;1.20,1615839430255,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,22406e4b-00b9-4323-92d0-7556ee3071e4,Pedestrian L01L02,43.2236839,-79.6681842"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:11.6950000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:11.6950000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.46,138.02;122.99;1.20,1615839430634,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,99cd2a7e-ba30-472d-b4e7-c6bc8cdb0ae5,L01S02,43.2237697,-79.6682605"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:11.6950000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:12.6800000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.35,142.45;116.79;1.20,1615839431083,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2237133,-79.6682072"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:12.6800000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:12.7110000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.29,145.70;114.09;1.20,1615839431223,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,22406e4b-00b9-4323-92d0-7556ee3071e4,Pedestrian L01L02,43.2236883,-79.6681720"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:12.7110000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:12.7110000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.31,145.93;113.56;1.20,1615839431427,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,22406e4b-00b9-4323-92d0-7556ee3071e4,Pedestrian L01L02,43.2236837,-79.6681650"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:12.7110000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:12.7110000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.43,138.60;123.41;1.20,1615839431345,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,99cd2a7e-ba30-472d-b4e7-c6bc8cdb0ae5,L01S02,43.2237735,-79.6682534"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:12.7110000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:13.6800000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.31,143.45;117.12;1.20,1615839432346,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2237161,-79.6681949"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:13.6800000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:13.7110000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.29,146.89;114.13;1.20,1615839432369,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2236887,-79.6681531"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:13.7110000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:13.7110000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.36,147.49;113.72;1.20,1615839432407,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,22406e4b-00b9-4323-92d0-7556ee3071e4,Pedestrian L01L02,43.2236849,-79.6681459"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:13.7110000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:13.7110000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.50,139.58;123.43;1.20,1615839432356,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,99cd2a7e-ba30-472d-b4e7-c6bc8cdb0ae5,L01S02,43.2237735,-79.6682445"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:13.7110000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:14.6800000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfd5,test1,#33FF00,Labourer,noLocation,moving,unknown,unknown,1615839434523,unknown,unknown,unknown,unknown,unknown,unknown"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:14.6800000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:14.7110000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.36,144.91;117.27;1.20,1615839433674,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2237172,-79.6681769"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:14.7110000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:14.7110000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.39,147.80;114.25;1.20,1615839433370,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2236892,-79.6681439"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:14.7110000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:14.7110000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.33,148.74;113.94;1.20,1615839433170,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,22406e4b-00b9-4323-92d0-7556ee3071e4,Pedestrian L01L02,43.2236865,-79.6681329"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:14.7110000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:14.7110000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.51,141.11;123.52;1.20,1615839433358,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,e2dc0595-74db-4498-829b-7d20d1ae1003,L01S03,43.2237743,-79.6682254"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:14.7110000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:15.6800000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.33,145.83;117.12;1.20,1615839434419,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2237160,-79.6681677"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:15.6800000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:15.7110000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.38,148.20;114.24;1.20,1615839434345,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2236896,-79.6681378"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:15.7110000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:15.7110000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.31,149.37;114.04;1.20,1615839434213,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,22406e4b-00b9-4323-92d0-7556ee3071e4,Pedestrian L01L02,43.2236875,-79.6681226"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:15.7110000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:15.7110000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.46,142.18;123.54;1.20,1615839434439,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,e2dc0595-74db-4498-829b-7d20d1ae1003,L01S03,43.2237740,-79.6682092"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:15.7110000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:16.6850000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfd5,test1,#33FF00,Labourer,noLocation,moving,unknown,unknown,1615839436064,unknown,unknown,unknown,unknown,unknown,unknown"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:16.6850000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:16.7320000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.34,146.57;117.01;1.20,1615839435368,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2237149,-79.6681586"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:16.7320000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:16.7320000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.36,148.80;114.15;1.20,1615839435401,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2236886,-79.6681296"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:16.7320000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:16.7320000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.36,149.76;114.11;1.20,1615839435385,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2236881,-79.6681178"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:16.7320000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:16.7320000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.43,143.13;123.47;1.20,1615839435530,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,e2dc0595-74db-4498-829b-7d20d1ae1003,L01S03,43.2237733,-79.6681975"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:16.7320000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:17.6700000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfd5,test1,#33FF00,Labourer,noLocation,moving,unknown,unknown,1615839437604,unknown,unknown,unknown,unknown,unknown,unknown"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:17.6700000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:17.7010000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.38,147.30;116.96;1.20,1615839436431,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2237141,-79.6681475"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:17.7010000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:17.7010000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.34,149.52;114.02;1.20,1615839436403,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,22406e4b-00b9-4323-92d0-7556ee3071e4,Pedestrian L01L02,43.2236873,-79.6681208"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:17.7010000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:17.7010000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.40,150.15;114.13;1.20,1615839436283,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2236882,-79.6681130"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:17.7010000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:17.7010000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.41,144.02;123.22;1.20,1615839436425,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,e2dc0595-74db-4498-829b-7d20d1ae1003,L01S03,43.2237709,-79.6681867"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:17.7010000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:18.6860000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfd5,test1,#33FF00,Labourer,noLocation,moving,unknown,unknown,1615839438214,unknown,unknown,unknown,unknown,unknown,unknown"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:18.6860000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:18.7170000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.34,148.02;117.05;1.20,1615839437334,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2237148,-79.6681387"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:18.7170000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:18.7170000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.38,150.18;114.12;1.20,1615839437450,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2236881,-79.6681127"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:18.7170000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:18.7170000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.47,150.72;114.17;1.20,1615839437287,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2236883,-79.6681076"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:18.7170000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:18.7170000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.39,144.69;122.87;1.20,1615839437305,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,e2dc0595-74db-4498-829b-7d20d1ae1003,L01S03,43.2237684,-79.6681802"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:18.7170000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:19.6700000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfd5,test1,#33FF00,Labourer,noLocation,moving,unknown,unknown,1615839438824,unknown,unknown,unknown,unknown,unknown,unknown"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:19.6700000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:19.7020000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.33,148.74;117.13;1.20,1615839438344,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2237154,-79.6681298"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:19.7020000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:19.7020000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.43,151.03;114.29;1.20,1615839438280,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2236895,-79.6681022"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:19.7020000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:19.7020000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.45,151.36;114.29;1.20,1615839438393,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2236895,-79.6680980"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:19.7020000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:19.7020000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.39,145.35;122.57;1.20,1615839438295,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,e2dc0595-74db-4498-829b-7d20d1ae1003,L01S03,43.2237653,-79.6681722"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:19.7020000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:20.6860000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfd5,test1,#33FF00,Labourer,noLocation,moving,unknown,unknown,1615839440079,unknown,unknown,unknown,unknown,unknown,unknown"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:20.6860000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:20.7170000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.31,149.33;117.10;1.20,1615839439363,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2237152,-79.6681238"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:20.7170000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:20.7170000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.44,151.81;114.31;1.20,1615839439196,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2236897,-79.6680946"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:20.7170000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:20.7170000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.39,151.94;114.42;1.20,1615839439525,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2236905,-79.6680909"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:20.7170000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:20.7170000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.38,145.92;122.24;1.20,1615839439513,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,90a557f7-dacd-44d0-b563-18aea02e3e11,L01S04,43.2237619,-79.6681635"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:20.7170000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:21.6700000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfd5,test1,#33FF00,Labourer,noLocation,moving,unknown,unknown,1615839441623,unknown,unknown,unknown,unknown,unknown,unknown"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:21.6700000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:21.7170000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.29,149.66;117.05;1.20,1615839440220,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2237146,-79.6681190"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:21.7170000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:21.7170000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.45,152.34;114.30;1.20,1615839440434,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2236895,-79.6680860"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:21.7170000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:21.7170000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.36,152.29;114.49;1.20,1615839440351,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2236911,-79.6680866"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:21.7170000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:21.7170000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.40,146.61;121.92;1.20,1615839440509,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,90a557f7-dacd-44d0-b563-18aea02e3e11,L01S04,43.2237588,-79.6681551"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:21.7170000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:22.6700000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfd5,test1,#33FF00,Labourer,noLocation,moving,unknown,unknown,1615839442234,unknown,unknown,unknown,unknown,unknown,unknown"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:22.6700000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:22.7170000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.30,149.74;117.04;1.20,1615839441367,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2237145,-79.6681175"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:22.7170000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:22.7170000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.46,152.60;114.27;1.20,1615839441372,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2236892,-79.6680828"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:22.7170000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:22.7170000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.36,152.60;114.53;1.20,1615839441303,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2236914,-79.6680835"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:22.7170000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:22.7170000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.41,147.58;121.58;1.20,1615839441529,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,90a557f7-dacd-44d0-b563-18aea02e3e11,L01S04,43.2237556,-79.6681432"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:22.7170000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:23.6860000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfd5,test1,#33FF00,Labourer,noLocation,moving,unknown,unknown,1615839443468,unknown,unknown,unknown,unknown,unknown,unknown"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:23.6860000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:23.7170000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.33,149.76;117.08;1.20,1615839442514,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2237149,-79.6681172"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:23.7170000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:23.7170000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.44,152.73;114.30;1.20,1615839442303,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2236894,-79.6680812"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:23.7170000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:23.7170000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.36,152.72;114.52;1.20,1615839442138,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2236914,-79.6680814"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:23.7170000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:23.7170000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.39,148.75;121.57;1.20,1615839442386,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,90a557f7-dacd-44d0-b563-18aea02e3e11,L01S04,43.2237555,-79.6681316"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:23.7170000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:24.6700000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfd5,test1,#33FF00,Labourer,noLocation,moving,unknown,unknown,1615839444086,unknown,unknown,unknown,unknown,unknown,unknown"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:24.6700000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:24.7020000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.34,149.83;117.10;1.20,1615839443332,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2237150,-79.6681163"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:24.7020000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:24.7020000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.41,152.98;114.35;1.20,1615839443419,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2236898,-79.6680781"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:24.7020000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:24.7020000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.37,152.78;114.50;1.20,1615839443638,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2236911,-79.6680806"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:24.7020000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:24.7020000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.38,149.66;121.62;1.20,1615839443497,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,90a557f7-dacd-44d0-b563-18aea02e3e11,L01S04,43.2237557,-79.6681176"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:24.7020000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:25.6860000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfd5,test1,#33FF00,Labourer,presence,moving,unknown,unknown,1615839445237,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,unknown,unknown,unknown,unknown"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:25.6860000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:25.7170000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.35,150.04;117.11;1.20,1615839444344,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2237151,-79.6681149"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:25.7170000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:25.7170000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.41,153.23;114.40;1.20,1615839444247,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2236902,-79.6680751"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:25.7170000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:25.7170000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.38,152.88;114.47;1.20,1615839444436,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2236909,-79.6680794"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:25.7170000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:25.7170000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.38,150.40;121.58;1.20,1615839444394,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,90a557f7-dacd-44d0-b563-18aea02e3e11,L01S04,43.2237553,-79.6681084"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:25.7170000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:26.6710000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfd5,test1,#33FF00,Labourer,presence,moving,unknown,unknown,1615839445670,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,unknown,unknown,unknown,unknown"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:26.6710000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:26.7020000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.37,150.80;117.06;1.20,1615839445441,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2237145,-79.6681045"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:26.7020000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:26.7020000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.42,153.69;114.48;1.20,1615839445007,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2236909,-79.6680693"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:26.7020000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:26.7020000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.39,153.42;114.44;1.20,1615839445306,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2236906,-79.6680727"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:26.7020000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:26.7020000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.37,151.23;121.49;1.20,1615839445383,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,90a557f7-dacd-44d0-b563-18aea02e3e11,L01S04,43.2237543,-79.6680982"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:26.7020000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:27.6710000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfd5,test1,#33FF00,Labourer,presence,moving,unknown,unknown,1615839446674,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,unknown,unknown,unknown,unknown"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:27.6710000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:27.7180000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.40,151.79;116.94;1.20,1615839446393,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2237133,-79.6680922"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:27.7180000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:27.7180000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.40,154.19;114.57;1.20,1615839445493,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2236915,-79.6680643"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:27.7180000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:27.7180000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.36,154.71;114.49;1.20,1615839446340,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2236908,-79.6680605"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:27.7180000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:27.7180000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.36,152.04;121.60;1.20,1615839446468,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,8f96570c-8ed8-48f0-be11-649ca59fa55a,L01S05,43.2237549,-79.6680905"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:27.7180000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:28.6870000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfd5,test1,#33FF00,Labourer,presence,moving,unknown,unknown,1615839447676,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,unknown,unknown,unknown,unknown"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:28.6870000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:28.7180000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.37,152.66;116.89;1.20,1615839447334,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2237127,-79.6680816"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:28.7180000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:28.7180000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.38,154.80;114.67;1.20,1615839447610,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2236923,-79.6680575"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:28.7180000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:28.7180000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.32,155.89;114.51;1.20,1615839447362,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2236908,-79.6680423"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:28.7180000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:28.7180000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.34,152.75;121.72;1.20,1615839447369,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,8f96570c-8ed8-48f0-be11-649ca59fa55a,L01S05,43.2237560,-79.6680813"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:28.7180000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:29.6710000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfd5,test1,#33FF00,Labourer,presence,moving,unknown,unknown,1615839448672,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,unknown,unknown,unknown,unknown"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:29.6710000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:29.7020000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.37,153.52;116.89;1.20,1615839448321,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2237126,-79.6680710"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:29.7020000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:29.7020000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.39,155.65;114.67;1.20,1615839448623,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2236923,-79.6680452"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:29.7020000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:29.7020000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.30,156.68;114.40;1.20,1615839448377,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2236897,-79.6680326"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:29.7020000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:29.7020000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.37,153.51;121.78;1.20,1615839448504,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,8f96570c-8ed8-48f0-be11-649ca59fa55a,L01S05,43.2237566,-79.6680701"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:29.7020000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:30.6870000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfd5,test1,#33FF00,Labourer,presence,moving,unknown,unknown,1615839449677,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,unknown,unknown,unknown,unknown"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:30.6870000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:30.7180000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.34,154.47;116.92;1.20,1615839449344,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2237127,-79.6680619"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:30.7180000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:30.7180000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.35,156.90;114.57;1.20,1615839449317,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2236912,-79.6680298"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:30.7180000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:30.7180000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.29,157.46;114.24;1.20,1615839449306,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2236882,-79.6680230"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:30.7180000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:30.7180000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.42,154.39;121.87;1.20,1615839449451,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,8f96570c-8ed8-48f0-be11-649ca59fa55a,L01S05,43.2237573,-79.6680593"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:30.7180000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:31.6710000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfd5,test1,#33FF00,Labourer,presence,moving,unknown,unknown,1615839450671,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,unknown,unknown,unknown,unknown"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:31.6710000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:31.7020000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.35,155.43;117.01;1.20,1615839450484,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2237132,-79.6680500"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:31.7020000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:31.7020000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.33,158.23;114.69;1.20,1615839450146,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2236921,-79.6680134"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:31.7020000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:31.7020000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.36,158.39;114.08;1.20,1615839450215,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,22406e4b-00b9-4323-92d0-7556ee3071e4,Pedestrian L01L02,43.2236866,-79.6680116"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:31.7020000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:31.7020000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.41,155.24;122.04;1.20,1615839450378,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,8f96570c-8ed8-48f0-be11-649ca59fa55a,L01S05,43.2237587,-79.6680488"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:31.7020000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:32.6870000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfd5,test1,#33FF00,Labourer,presence,moving,unknown,unknown,1615839451678,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,unknown,unknown,unknown,unknown"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:32.6870000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:32.7180000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.35,156.25;117.15;1.20,1615839451185,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2237145,-79.6680374"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:32.7180000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:32.7180000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.31,159.34;114.84;1.20,1615839451334,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2236932,-79.6680025"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:32.7180000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:32.7180000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.39,159.23;114.04;1.20,1615839451232,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,22406e4b-00b9-4323-92d0-7556ee3071e4,Pedestrian L01L02,43.2236861,-79.6680042"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:32.7180000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:32.7180000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.43,156.16;122.16;1.20,1615839451335,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,8f96570c-8ed8-48f0-be11-649ca59fa55a,L01S05,43.2237596,-79.6680398"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:32.7180000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:33.6710000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfd5,test1,#33FF00,Labourer,presence,moving,unknown,unknown,1615839452674,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,unknown,unknown,unknown,unknown"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:33.6710000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:33.7030000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.32,157.03;117.46;1.20,1615839452046,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2237166,-79.6680294"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:33.7030000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:33.7030000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.33,160.19;114.90;1.20,1615839452180,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2236937,-79.6679912"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:33.7030000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:33.7030000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.41,160.30;114.04;1.20,1615839452456,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,22406e4b-00b9-4323-92d0-7556ee3071e4,Pedestrian L01L02,43.2236860,-79.6679881"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:33.7030000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:33.7030000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.43,156.85;122.19;1.20,1615839452434,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,8f96570c-8ed8-48f0-be11-649ca59fa55a,L01S05,43.2237599,-79.6680289"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:33.7030000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:34.6870000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfd5,test1,#33FF00,Labourer,presence,moving,unknown,unknown,1615839453677,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,unknown,unknown,unknown,unknown"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:34.6870000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:34.7340000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.31,157.73;117.65;1.20,1615839453446,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,8f96570c-8ed8-48f0-be11-649ca59fa55a,L01S05,43.2237188,-79.6680190"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:34.7340000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:34.7340000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.46,161.27;114.87;1.20,1615839453484,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2236933,-79.6679760"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:34.7340000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:34.7340000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.42,161.42;114.11;1.20,1615839453147,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2236864,-79.6679743"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:34.7340000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:34.7340000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.42,157.26;122.03;1.20,1615839453372,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,8f96570c-8ed8-48f0-be11-649ca59fa55a,L01S05,43.2237583,-79.6680240"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:34.7340000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:35.6710000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfd5,test1,#33FF00,Labourer,presence,moving,unknown,unknown,1615839454671,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,unknown,unknown,unknown,unknown"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:35.6710000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:35.7180000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.34,158.57;117.86;1.20,1615839454509,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,3b293dd7-ae00-4cfa-a1ce-b37c92422ece,L01S06,43.2237206,-79.6680086"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:35.7180000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:35.7180000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.49,162.33;114.83;1.20,1615839454252,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2236928,-79.6679629"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:35.7180000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:35.7180000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.48,162.17;114.17;1.20,1615839454059,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,,,43.2236866,-79.6679668"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:35.7180000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:35.7180000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.42,157.42;121.95;1.20,1615839454167,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,8f96570c-8ed8-48f0-be11-649ca59fa55a,L01S05,43.2237577,-79.6680225"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:35.7180000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:36.6870000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfd5,test1,#33FF00,Labourer,presence,moving,unknown,unknown,1615839455676,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,unknown,unknown,unknown,unknown"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:36.6870000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:36.7030000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.33,159.45;118.09;1.20,1615839455305,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,3b293dd7-ae00-4cfa-a1ce-b37c92422ece,L01S06,43.2237226,-79.6679978"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:36.7030000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:36.7030000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.46,162.76;114.89;1.20,1615839454939,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2236930,-79.6679584"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:36.7030000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:36.7030000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.55,163.02;114.63;1.20,1615839455688,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2236909,-79.6679544"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:36.7030000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:36.7030000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.41,157.49;121.98;1.20,1615839455312,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,8f96570c-8ed8-48f0-be11-649ca59fa55a,L01S05,43.2237577,-79.6680210"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:36.7030000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:37.6720000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfd5,test1,#33FF00,Labourer,presence,moving,unknown,unknown,1615839456671,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,unknown,unknown,unknown,unknown"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:37.6720000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:37.7030000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.32,160.18;118.23;1.20,1615839456292,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,3b293dd7-ae00-4cfa-a1ce-b37c92422ece,L01S06,43.2237236,-79.6679904"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:37.7030000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:37.7030000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.48,163.17;115.30;1.20,1615839456687,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2236969,-79.6679525"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:37.7030000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:37.7030000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.49,164.02;115.92;1.20,1615839456429,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2237023,-79.6679419"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:37.7030000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:37.7030000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.42,157.47;122.00;1.20,1615839456472,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,8f96570c-8ed8-48f0-be11-649ca59fa55a,L01S05,43.2237580,-79.6680213"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:37.7030000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:38.6870000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfd5,test1,#33FF00,Labourer,presence,moving,unknown,unknown,1615839457675,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,unknown,unknown,unknown,unknown"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:38.6870000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:38.7030000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.33,160.67;118.31;1.20,1615839457213,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,3b293dd7-ae00-4cfa-a1ce-b37c92422ece,L01S06,43.2237243,-79.6679827"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:38.7030000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:38.7030000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.58,164.12;116.26;1.20,1615839457290,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2237054,-79.6679406"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:38.7030000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:38.7030000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.50,163.93;116.69;1.20,1615839457393,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,4c5e51e5-0eec-4621-838c-68fabeb72400,Forklift L01L02,43.2237093,-79.6679428"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:38.7030000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:38.7030000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.42,157.45;122.02;1.20,1615839457584,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,8f96570c-8ed8-48f0-be11-649ca59fa55a,L01S05,43.2237582,-79.6680216"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:38.7030000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:39.6720000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfd5,test1,#33FF00,Labourer,presence,moving,unknown,unknown,1615839458671,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,unknown,unknown,unknown,unknown"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:39.6720000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:39.7030000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.34,161.02;118.37;1.20,1615839458542,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,3b293dd7-ae00-4cfa-a1ce-b37c92422ece,L01S06,43.2237248,-79.6679783"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:39.7030000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:39.7030000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.53,164.56;117.72;1.20,1615839458369,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,14558314-31a8-4927-a38b-61362fb82aa5,L01S07,43.2237185,-79.6679349"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:39.7030000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:39.7030000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.52,164.22;117.87;1.20,1615839458369,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,14558314-31a8-4927-a38b-61362fb82aa5,L01S07,43.2237172,-79.6679410"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:39.7030000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:39.7030000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.42,157.45;122.05;1.20,1615839458371,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,8f96570c-8ed8-48f0-be11-649ca59fa55a,L01S05,43.2237584,-79.6680216"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:39.7030000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:40.6870000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfd5,test1,#33FF00,Labourer,presence,moving,unknown,unknown,1615839459676,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,unknown,unknown,unknown,unknown"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:40.6870000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:40.7190000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.35,161.19;118.57;1.20,1615839459611,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,3b293dd7-ae00-4cfa-a1ce-b37c92422ece,L01S06,43.2237266,-79.6679763"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:40.7190000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:40.7190000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.51,164.51;118.95;1.20,1615839459271,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,14558314-31a8-4927-a38b-61362fb82aa5,L01S07,43.2237296,-79.6679352"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:40.7190000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:40.7190000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.50,164.44;119.00;1.20,1615839459316,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,14558314-31a8-4927-a38b-61362fb82aa5,L01S07,43.2237300,-79.6679361"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:40.7190000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:40.7190000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.43,157.48;122.09;1.20,1615839459318,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,8f96570c-8ed8-48f0-be11-649ca59fa55a,L01S05,43.2237588,-79.6680212"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:40.7190000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:41.6720000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfd5,test1,#33FF00,Labourer,presence,moving,unknown,unknown,1615839460670,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,unknown,unknown,unknown,unknown"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:41.6720000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:41.7190000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.34,161.16;118.81;1.20,1615839460500,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,3b293dd7-ae00-4cfa-a1ce-b37c92422ece,L01S06,43.2237288,-79.6679765"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:41.7190000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:41.7190000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.44,164.63;120.17;1.20,1615839460272,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,14558314-31a8-4927-a38b-61362fb82aa5,L01S07,43.2237376,-79.6679341"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:41.7190000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:41.7190000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.42,164.57;119.96;1.20,1615839460442,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,14558314-31a8-4927-a38b-61362fb82aa5,L01S07,43.2237387,-79.6679343"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:41.7190000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:41.7190000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.43,157.64;122.15;1.20,1615839460350,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,8f96570c-8ed8-48f0-be11-649ca59fa55a,L01S05,43.2237593,-79.6680201"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:41.7190000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:42.6870000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfd5,test1,#33FF00,Labourer,presence,moving,unknown,unknown,1615839461675,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,unknown,unknown,unknown,unknown"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:42.6870000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:42.7190000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.35,161.14;119.01;1.20,1615839461496,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,3b293dd7-ae00-4cfa-a1ce-b37c92422ece,L01S06,43.2237301,-79.6679767"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:42.7190000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:42.7190000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.42,164.75;121.54;1.20,1615839461386,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,14558314-31a8-4927-a38b-61362fb82aa5,L01S07,43.2237528,-79.6679319"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:42.7190000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:42.7190000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.39,164.59;121.05;1.20,1615839461344,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,14558314-31a8-4927-a38b-61362fb82aa5,L01S07,43.2237485,-79.6679339"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:42.7190000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:42.7190000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.47,157.82;122.16;1.20,1615839460530,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,8f96570c-8ed8-48f0-be11-649ca59fa55a,L01S05,43.2237593,-79.6680201"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:42.7190000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:43.6720000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfd5,test1,#33FF00,Labourer,presence,moving,unknown,unknown,1615839462670,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,unknown,unknown,unknown,unknown"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:43.6720000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:43.7030000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.36,161.10;119.31;1.20,1615839462094,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,3b293dd7-ae00-4cfa-a1ce-b37c92422ece,L01S06,43.2237326,-79.6679771"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:43.7030000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:43.7030000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.44,164.46;122.72;1.20,1615839462446,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,14558314-31a8-4927-a38b-61362fb82aa5,L01S07,43.2237635,-79.6679352"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:43.7030000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:43.7030000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.38,164.22;122.03;1.20,1615839462178,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,14558314-31a8-4927-a38b-61362fb82aa5,L01S07,43.2237558,-79.6679359"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:43.7030000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:43.7030000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.67,162.27;119.83;1.20,1615839462482,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,3b293dd7-ae00-4cfa-a1ce-b37c92422ece,L01S06,43.2237378,-79.6679627"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:43.7030000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:44.6870000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfd5,test1,#33FF00,Labourer,presence,moving,unknown,unknown,1615839463677,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,unknown,unknown,unknown,unknown"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:44.6870000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:44.7190000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.35,161.07;119.69;1.20,1615839463107,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,3b293dd7-ae00-4cfa-a1ce-b37c92422ece,L01S06,43.2237367,-79.6679775"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:44.7190000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:44.7190000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.37,163.82;123.51;1.20,1615839463278,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,3b293dd7-ae00-4cfa-a1ce-b37c92422ece,L01S06,43.2237707,-79.6679429"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:44.7190000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:44.7190000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.36,163.43;122.84;1.20,1615839463225,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,3b293dd7-ae00-4cfa-a1ce-b37c92422ece,L01S06,43.2237648,-79.6679478"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:44.7190000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:44.7190000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,1.05,162.77;119.53;1.20,1615839463194,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,3b293dd7-ae00-4cfa-a1ce-b37c92422ece,L01S06,43.2237353,-79.6679559"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:44.7190000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:45.6720000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfd5,test1,#33FF00,Labourer,presence,moving,unknown,unknown,1615839464672,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,unknown,unknown,unknown,unknown"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:45.6720000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:45.7030000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.36,161.17;120.21;1.20,1615839464384,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,3b293dd7-ae00-4cfa-a1ce-b37c92422ece,L01S06,43.2237414,-79.6679761"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:45.7030000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:45.7030000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.41,162.46;123.53;1.20,1615839464233,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,3b293dd7-ae00-4cfa-a1ce-b37c92422ece,L01S06,43.2237711,-79.6679596"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:45.7030000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:45.7030000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.38,162.50;123.33;1.20,1615839464428,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,3b293dd7-ae00-4cfa-a1ce-b37c92422ece,L01S06,43.2237693,-79.6679591"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:45.7030000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:45.7030000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,1.38,162.71;119.50;1.20,1615839463374,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,3b293dd7-ae00-4cfa-a1ce-b37c92422ece,L01S06,43.2237353,-79.6679559"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:45.7030000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:46.6720000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfd5,test1,#33FF00,Labourer,presence,moving,unknown,unknown,1615839465674,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,unknown,unknown,unknown,unknown"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:46.6720000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:46.7030000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.37,161.22;120.81;1.20,1615839465437,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,3b293dd7-ae00-4cfa-a1ce-b37c92422ece,L01S06,43.2237468,-79.6679754"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:46.7030000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:46.7030000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.42,161.35;123.17;1.20,1615839465268,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,3b293dd7-ae00-4cfa-a1ce-b37c92422ece,L01S06,43.2237680,-79.6679733"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:46.7030000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:46.7030000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.38,161.27;123.27;1.20,1615839465584,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,3b293dd7-ae00-4cfa-a1ce-b37c92422ece,L01S06,43.2237689,-79.6679744"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:46.7030000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:46.7030000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.40,158.14;122.18;1.20,1615839465544,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,3b293dd7-ae00-4cfa-a1ce-b37c92422ece,L01S06,43.2237596,-79.6680130"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:46.7030000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:47.6720000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfd5,test1,#33FF00,Labourer,presence,moving,unknown,unknown,1615839466670,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,unknown,unknown,unknown,unknown"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:47.6720000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:47.7030000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bff7,test4,#FF0000,Plumber,position,moving,0.39,160.99;121.09;1.20,1615839466275,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,3b293dd7-ae00-4cfa-a1ce-b37c92422ece,L01S06,43.2237494,-79.6679783"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:47.7030000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:47.7030000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c000,test3,#33FFFF,Welder,position,moving,0.42,160.50;122.89;1.20,1615839466433,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,3b293dd7-ae00-4cfa-a1ce-b37c92422ece,L01S06,43.2237656,-79.6679838"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:47.7030000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:47.7030000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3c003,test2,#FF0000,Electrician,position,moving,0.39,160.22;123.13;1.20,1615839466208,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,3b293dd7-ae00-4cfa-a1ce-b37c92422ece,L01S06,43.2237680,-79.6679850"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:47.7030000Z"
+    },
+    "Body": ""
+}
+{
+    "EnqueuedTimeUtc": "2021-03-15T20:17:47.7030000Z",
+    "Properties": {
+        "UDPMessage": "a4da22e3bfc4,module test 1,#0000FF,Module,position,moving,0.36,157.69;122.10;1.20,1615839466382,9be373ed-a0c0-471f-a101-615148fb8e1e,Stoney Creek,8f96570c-8ed8-48f0-be11-649ca59fa55a,L01S05,43.2237589,-79.6680186"
+    },
+    "SystemProperties": {
+        "connectionDeviceId": "edazmodular-rtls-iotedge-quuppa-pilot",
+        "connectionModuleId": "udpmessages",
+        "connectionAuthMethod": "{\"scope\":\"module\",\"type\":\"sas\",\"issuer\":\"iothub\",\"acceptingIpFilterRule\":null}",
+        "connectionDeviceGenerationId": "637511584065783518",
+        "enqueuedTime": "2021-03-15T20:17:47.7030000Z"
+    },
+    "Body": ""
+}
